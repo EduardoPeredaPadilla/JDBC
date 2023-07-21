@@ -29,7 +29,7 @@ public class App {
         int resp;
 
         System.out.println("");
-        System.out.println("Menu de Tienda");
+        System.out.println("Menu de Tienda de Productos");
         System.out.println("");
         System.out.println("1. Mostar todos los productos de la tienda");
         System.out.println("2. Mostrrar los productos de precio entre $120.00 y $202.00");

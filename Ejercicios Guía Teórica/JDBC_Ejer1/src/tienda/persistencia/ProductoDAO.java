@@ -57,6 +57,7 @@ public class ProductoDAO extends DAO {
         } catch (Exception e) {
             desconectarBase();
             throw e;
+            
         }
 
     }
